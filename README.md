@@ -1,4 +1,4 @@
-# DSA-mod-17-3
+# Data Structures Using Python-mod-17-3
 # AIM:
  To write a Python function BFS to perform Breadth-First Search (BFS) traversal from a given source vertex in a graph.
 
